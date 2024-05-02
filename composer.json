@@ -1,0 +1,19 @@
+{
+    "name": "jobayer-mojumder/calculator",
+    "description": "A simple calculator package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "JobayerMojumder\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jobayer Mojumder",
+            "email": "jobayer.mojumder@burda-forward.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
